@@ -16,4 +16,4 @@ Study
 
 Numbers|Date|Topic|Video|Materials
 -------|-------|--------|------|-------
-1|21.02.23|Abstract Measures|video|notes
+1|21.02.23|Abstract Measures|[video](https://youtu.be/SFa0EGWOXAM)|notes
