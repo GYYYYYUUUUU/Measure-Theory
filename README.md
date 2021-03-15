@@ -18,4 +18,4 @@ Numbers|Date|Topic|Video|Materials
 -------|-------|--------|------|-------
 1|21.02.23|Abstract Measures|[video](https://youtu.be/SFa0EGWOXAM)|notes
 2|21.03.02|Exterior Measures, Borel Sets | [video](https://youtu.be/hy5_wULzdPU) | notes
-3|21.03.09|Measurable functions | [video]() | notes
+3|21.03.09|Measurable functions | [video](https://youtu.be/87FL92uzgTU) | notes
