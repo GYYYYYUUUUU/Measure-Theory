@@ -20,4 +20,4 @@ Numbers|Date|Topic|Video|Materials
 2|21.03.02|Exterior Measures, Borel Sets | [video](https://youtu.be/hy5_wULzdPU) | notes
 3|21.03.09|Measurable functions | [video](https://youtu.be/87FL92uzgTU) | notes
 4|21.03.22|Simple Functions, Basic Measure | [video](https://youtu.be/_sx378iipSk) | notes
-5|21.03.29|Properties on Measure | [video]() | notes
+5|21.03.29|Properties on Measure | [video](https://youtu.be/SL4m6kg_ER8) | notes
